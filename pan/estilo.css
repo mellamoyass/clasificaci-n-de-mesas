@@ -1,0 +1,178 @@
+body{
+  
+   /* background-color: rgb(255, 101, 255);
+    background: rgb(166, 131, 180);*/
+   background-image: url('cfa2b74951a70bb7b22d0315ef3719e4.jpg');
+   background-size: cover;
+   padding: 40px;
+}
+div{
+    background-color: darkgrey;
+    padding: 20px;
+    opacity: 80%;
+}
+h1 {
+    color: firebrick;
+    font-weight: bold;
+    font-size: 2em; /* Puedes ajustar el tamaño según lo necesites */
+}
+
+h2 {
+    color: darkslategray;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Centra la imagen si es necesario */
+}
+body {
+    background-image: url('cfa2b74951a70bb7b22d0315ef3719e4.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #333; /* Ajusta el color del texto para mejorar la legibilidad */
+    padding: 40px;
+}
+
+div {
+    background-color: rgba(169, 169, 169, 0.8); /* Opacidad ajustada */
+    padding: 20px;
+    border-radius: 8px; /* Bordes redondeados */
+}
+div {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border: 1px solid #ddd;
+}
+h1 {
+    color: firebrick;
+    font-weight: bold;
+    font-size: 2em; /* Ajusta el tamaño según lo necesites */
+}
+
+h2 {
+    color: darkslategray;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+body {
+    background-image: url('cfa2b74951a70bb7b22d0315ef3719e4.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #333; /* Ajusta el color del texto para mejorar la legibilidad */
+    padding: 40px;
+}
+
+div {
+    background-color: rgba(169, 169, 169, 0.8); /* Opacidad ajustada */
+    padding: 20px;
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra alrededor del div */
+}
+body {
+    background-image: url('cfa2b74951a70bb7b22d0315ef3719e4.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #333;
+    padding: 40px;
+ }
+ 
+ div {
+     background-color: rgba(169, 169, 169, 0.8);
+     padding: 20px;
+     border-radius: 8px;
+     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+ }
+ 
+ h1 {
+     color: firebrick;
+     font-weight: bold;
+     font-size: 2em;
+ }
+ 
+ h2 {
+     color: darkslategray;
+     font-weight: bold;
+     font-size: 1.5em;
+ }
+ 
+ img {
+     max-width: 100%;
+     height: auto;
+     display: block;
+     margin: 0 auto;
+ }
+ body {
+    background-color: #f4f4f4; /* Color de fondo claro que complementa el diseño de madera */
+    color: #333; /* Color del texto */
+}
+
+div {
+    border: 2px solid #8B4513; /* Color madera para el borde */
+}
+@import url('https://fonts.googleapis.com/css2?family=Georgia:wght@400;700&display=swap'); /* Carga la fuente Georgia */
+
+body {
+    font-family: 'Georgia', serif; /* Aplica la fuente Georgia a todo el texto */
+}
+div {
+    border: 2px solid #8B4513; /* Borde color madera */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Sombra sutil */
+}
+h2:hover {
+    color: #228B22; /* Color verde para el efecto hover en títulos */
+}
+
+img:hover {
+    transform: scale(1.05); /* Zoom ligero en la imagen al pasar el ratón */
+    transition: transform 0.3s ease; /* Transición suave */
+}
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+div {
+    animation: fadeIn 1s ease-in;
+}
+.gallery {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.gallery img {
+    width: 30%;
+    height: auto;
+    border-radius: 5px;
+    transition: transform 0.3s ease;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+.reviews {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.review {
+    margin-bottom: 15px;
+}
+
+
+ 
+
